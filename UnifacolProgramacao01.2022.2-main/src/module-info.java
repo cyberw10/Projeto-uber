@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ricar
- *
- */
-module poo {
-}
